@@ -1,0 +1,47 @@
+//Mac/Home/Desktop/Algorithms and Data Structures/Assignment/ADSAssignment/ADSAssignment/bin/Debug/ADSAssignment.exe.config
+//Mac/Home/Desktop/Algorithms and Data Structures/Assignment/ADSAssignment/ADSAssignment/bin/Debug/ADSAssignment.exe
+//Mac/Home/Desktop/Algorithms and Data Structures/Assignment/ADSAssignment/ADSAssignment/bin/Debug/ADSAssignment.pdb
+//Mac/Home/Desktop/Algorithms and Data Structures/Assignment/ADSAssignment/ADSAssignment/obj/Debug/ADSAssignment.csprojResolveAssemblyReference.cache
+//Mac/Home/Desktop/Algorithms and Data Structures/Assignment/ADSAssignment/ADSAssignment/obj/Debug/ADSAssignment.Form1.resources
+//Mac/Home/Desktop/Algorithms and Data Structures/Assignment/ADSAssignment/ADSAssignment/obj/Debug/ADSAssignment.Properties.Resources.resources
+//Mac/Home/Desktop/Algorithms and Data Structures/Assignment/ADSAssignment/ADSAssignment/obj/Debug/ADSAssignment.csproj.GenerateResource.cache
+//Mac/Home/Desktop/Algorithms and Data Structures/Assignment/ADSAssignment/ADSAssignment/obj/Debug/ADSAssignment.csproj.CoreCompileInputs.cache
+//Mac/Home/Desktop/Algorithms and Data Structures/Assignment/ADSAssignment/ADSAssignment/obj/Debug/ADSAssignment.exe
+//Mac/Home/Desktop/Algorithms and Data Structures/Assignment/ADSAssignment/ADSAssignment/obj/Debug/ADSAssignment.pdb
+//Mac/Home/Desktop/Algorithms and Data Structures/Assignment/ADSAssignment/ADSAssignment/obj/Debug/ADSAssignment.Details_Form.resources
+//Mac/Home/Desktop/Algorithms and Data Structures/Assignment/ADSAssignment/ADSAssignment/obj/Debug/ADSAssignment.addCountry_Form.resources
+//Mac/Home/Desktop/Algorithms and Data Structures/Assignment/ADSAssignment/ADSAssignment/bin/Debug/CsvHelper.dll
+//Mac/Home/Desktop/Algorithms and Data Structures/Assignment/ADSAssignment/ADSAssignment/bin/Debug/CsvHelper.xml
+//Mac/Home/Desktop/Algorithms and Data Structures/Assignment/ADSAssignment/ADSAssignment/obj/Debug/ADSAssignment.csproj.CopyComplete
+//Mac/Home/Desktop/Algorithms and Data Structures/Assignment/ADSAssignment/ADSAssignment/obj/Debug/ADSAssignment.tradePartnersForm.resources
+/Users/carlos/Documents/My Documents/School/MMU/Year 2/Alg. & Data Structures/Final assign/Carlos_Guedes16022694/ADSAssignment/ADSAssignment/bin/Debug/ADSAssignment.exe.config
+/Users/carlos/Documents/My Documents/School/MMU/Year 2/Alg. & Data Structures/Final assign/Carlos_Guedes16022694/ADSAssignment/ADSAssignment/bin/Debug/ADSAssignment.exe
+/Users/carlos/Documents/My Documents/School/MMU/Year 2/Alg. & Data Structures/Final assign/Carlos_Guedes16022694/ADSAssignment/ADSAssignment/bin/Debug/ADSAssignment.pdb
+/Users/carlos/Documents/My Documents/School/MMU/Year 2/Alg. & Data Structures/Final assign/Carlos_Guedes16022694/ADSAssignment/ADSAssignment/bin/Debug/CsvHelper.dll
+/Users/carlos/Documents/My Documents/School/MMU/Year 2/Alg. & Data Structures/Final assign/Carlos_Guedes16022694/ADSAssignment/ADSAssignment/bin/Debug/CsvHelper.xml
+/Users/carlos/Documents/My Documents/School/MMU/Year 2/Alg. & Data Structures/Final assign/Carlos_Guedes16022694/ADSAssignment/ADSAssignment/obj/Debug/ADSAssignment.csprojResolveAssemblyReference.cache
+/Users/carlos/Documents/My Documents/School/MMU/Year 2/Alg. & Data Structures/Final assign/Carlos_Guedes16022694/ADSAssignment/ADSAssignment/obj/Debug/ADSAssignment.addCountry_Form.resources
+/Users/carlos/Documents/My Documents/School/MMU/Year 2/Alg. & Data Structures/Final assign/Carlos_Guedes16022694/ADSAssignment/ADSAssignment/obj/Debug/ADSAssignment.Details_Form.resources
+/Users/carlos/Documents/My Documents/School/MMU/Year 2/Alg. & Data Structures/Final assign/Carlos_Guedes16022694/ADSAssignment/ADSAssignment/obj/Debug/ADSAssignment.Form1.resources
+/Users/carlos/Documents/My Documents/School/MMU/Year 2/Alg. & Data Structures/Final assign/Carlos_Guedes16022694/ADSAssignment/ADSAssignment/obj/Debug/ADSAssignment.Properties.Resources.resources
+/Users/carlos/Documents/My Documents/School/MMU/Year 2/Alg. & Data Structures/Final assign/Carlos_Guedes16022694/ADSAssignment/ADSAssignment/obj/Debug/ADSAssignment.tradePartnersForm.resources
+/Users/carlos/Documents/My Documents/School/MMU/Year 2/Alg. & Data Structures/Final assign/Carlos_Guedes16022694/ADSAssignment/ADSAssignment/obj/Debug/ADSAssignment.csproj.GenerateResource.Cache
+/Users/carlos/Documents/My Documents/School/MMU/Year 2/Alg. & Data Structures/Final assign/Carlos_Guedes16022694/ADSAssignment/ADSAssignment/obj/Debug/ADSAssignment.csproj.CoreCompileInputs.cache
+/Users/carlos/Documents/My Documents/School/MMU/Year 2/Alg. & Data Structures/Final assign/Carlos_Guedes16022694/ADSAssignment/ADSAssignment/obj/Debug/ADSAssignment.exe
+/Users/carlos/Documents/My Documents/School/MMU/Year 2/Alg. & Data Structures/Final assign/Carlos_Guedes16022694/ADSAssignment/ADSAssignment/obj/Debug/ADSAssignment.pdb
+C:\Users\carlos\Desktop\ADSAssignment\ADSAssignment\bin\Debug\ADSAssignment.exe.config
+C:\Users\carlos\Desktop\ADSAssignment\ADSAssignment\bin\Debug\ADSAssignment.exe
+C:\Users\carlos\Desktop\ADSAssignment\ADSAssignment\bin\Debug\ADSAssignment.pdb
+C:\Users\carlos\Desktop\ADSAssignment\ADSAssignment\bin\Debug\CsvHelper.dll
+C:\Users\carlos\Desktop\ADSAssignment\ADSAssignment\bin\Debug\CsvHelper.xml
+C:\Users\carlos\Desktop\ADSAssignment\ADSAssignment\obj\Debug\ADSAssignment.csprojAssemblyReference.cache
+C:\Users\carlos\Desktop\ADSAssignment\ADSAssignment\obj\Debug\ADSAssignment.addCountry_Form.resources
+C:\Users\carlos\Desktop\ADSAssignment\ADSAssignment\obj\Debug\ADSAssignment.Details_Form.resources
+C:\Users\carlos\Desktop\ADSAssignment\ADSAssignment\obj\Debug\ADSAssignment.Form1.resources
+C:\Users\carlos\Desktop\ADSAssignment\ADSAssignment\obj\Debug\ADSAssignment.Properties.Resources.resources
+C:\Users\carlos\Desktop\ADSAssignment\ADSAssignment\obj\Debug\ADSAssignment.tradePartnersForm.resources
+C:\Users\carlos\Desktop\ADSAssignment\ADSAssignment\obj\Debug\ADSAssignment.csproj.GenerateResource.cache
+C:\Users\carlos\Desktop\ADSAssignment\ADSAssignment\obj\Debug\ADSAssignment.csproj.CoreCompileInputs.cache
+C:\Users\carlos\Desktop\ADSAssignment\ADSAssignment\obj\Debug\ADSAssignment.csproj.CopyComplete
+C:\Users\carlos\Desktop\ADSAssignment\ADSAssignment\obj\Debug\ADSAssignment.exe
+C:\Users\carlos\Desktop\ADSAssignment\ADSAssignment\obj\Debug\ADSAssignment.pdb
